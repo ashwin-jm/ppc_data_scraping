@@ -1,0 +1,44 @@
+1675360774110	geckodriver	INFO	Listening on 127.0.0.1:57906
+1675360777190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilelMC1W5"
+1675360777724	Marionette	INFO	Marionette enabled
+1675360777729	Marionette	INFO	Listening on port 57922
+WebDriver BiDi listening on ws://127.0.0.1:57907
+Read port: 57922
+1675360778025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofilelMC1W5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57907/devtools/browser/be8be31c-ba2b-4091-bc83-1a969e926658
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675360796083	Marionette	INFO	Stopped listening on port 57922
+1675360805669	geckodriver	INFO	Listening on 127.0.0.1:58071
+1675360808722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58072" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileU5ZiDU"
+1675360808998	Marionette	INFO	Marionette enabled
+1675360809001	Marionette	INFO	Listening on port 58082
+Read port: 58082
+WebDriver BiDi listening on ws://127.0.0.1:58072
+1675360809109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileU5ZiDU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58072/devtools/browser/f5846c30-9bbb-430b-b1cb-af0cd5a5b77e
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675360823703	Marionette	INFO	Stopped listening on port 58082
+1675360932966	geckodriver	INFO	Listening on 127.0.0.1:58321
+1675360936033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58322" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileDsKkwd"
+1675360936367	Marionette	INFO	Marionette enabled
+1675360936370	Marionette	INFO	Listening on port 58332
+WebDriver BiDi listening on ws://127.0.0.1:58322
+Read port: 58332
+1675360936613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileDsKkwd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58322/devtools/browser/b3758f0d-8ced-43d5-a877-78410bf50581
+JavaScript warning: https://www.amazon.in/ line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675360947128	Marionette	INFO	Stopped listening on port 58332
+1675360970274	geckodriver	INFO	Listening on 127.0.0.1:58484
+1675360973358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileJghE6V"
+1675360973747	Marionette	INFO	Marionette enabled
+1675360973751	Marionette	INFO	Listening on port 58495
+Read port: 58495
+WebDriver BiDi listening on ws://127.0.0.1:58485
+1675360973856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileJghE6V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58485/devtools/browser/c228ffdc-2253-4dd1-a6fc-e6a6d91c419a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.in."
+1675360977571	Marionette	INFO	Stopped listening on port 58495
