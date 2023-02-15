@@ -39,7 +39,7 @@ for keyword in product_keywords:
 
 driver.quit()
 
-with open('ppc_data.csv', 'w', newline='', encoding='utf-8') as file:
+with open('ppc_data3.csv', 'w', newline='', encoding='utf-8') as file:
     Writer = writer(file)
     Writer.writerow(['Keyword', 'Product 1', 'Product 2', 'Product 3', 'Product 4', 'Product 5', 'Product 6'])
     Writer.writerows(data_list)
